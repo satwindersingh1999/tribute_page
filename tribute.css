@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: beige;
+  margin: 50px;
+}
+h1 {
+  font-family: "oswald" sans-serif;
+  color: maroon;
+  font-weight: bold;
+  font-size: 30px;
+}
+p {
+  font-family: "oswald", sans-serif;
+  color: darkslategrey;
+  font-weight: bolder;
+  font-size: 20px;
+}
+img {
+  height: 400px;
+  width: 400px;
+  border-radius: 200px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
